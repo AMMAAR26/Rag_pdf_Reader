@@ -63,10 +63,15 @@ pip install -r requirements.txt
 **# Run the Streamlit app**
 streamlit run app.py 
 
+## 📬 Authors
+
+- **Mohammad Sir** – [@mohammad-Ammar](https://github.com/AMMAAR26)  
+- **Maverick** – [@maverick0810](https://github.com/maverick0810)
+
 
 ## 📬 Contact
 
- mohdammar026@gmail.com
+ mohdammar026@gmail.com 
 📫 Feel free to open an issue or PR if you'd like to contribute, suggest features, or report bugs.
 
 
