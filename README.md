@@ -20,7 +20,8 @@
 - 🔍 RAG-based context-aware answers with citations
 - 💾 Local vector DB support via Chroma
 
----
+
+
 
 ## 🛠️ Project Structure
 
@@ -53,7 +54,7 @@ LLM generates an answer based on context
 ▶️ Local Environment**
 
 # Clone the repo
-git clone https://github.com/yourusername/rag-pdf-chatbot.git
+git clone https://github.com/Ammaar26/rag-pdf-chatbot.git
 cd rag-pdf-chatbot
 
 # Install dependencies
