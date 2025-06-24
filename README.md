@@ -36,7 +36,7 @@
 
 
 
-**⚙️ How It Works**
+## ⚙️ How It Works
 Upload a PDF via Streamlit UI
 
 The file is split into smaller chunks
@@ -50,21 +50,21 @@ RAG retrieves the most relevant parts
 LLM generates an answer based on context
 
 
-**💻 Run the App
-▶️ Local Environment**
+## 💻 Run the App ▶️ Local Environment
 
-# Clone the repo
+
+** Clone the repo**
 git clone https://github.com/Ammaar26/rag-pdf-chatbot.git
 cd rag-pdf-chatbot
 
-# Install dependencies
+** Install dependencies**
 pip install -r requirements.txt
 
-# Run the Streamlit app
+**# Run the Streamlit app**
 streamlit run app.py 
 
 
-**📬 Contact**
+## 📬 Contact
 
  mohdammar026@gmail.com
 📫 Feel free to open an issue or PR if you'd like to contribute, suggest features, or report bugs.
